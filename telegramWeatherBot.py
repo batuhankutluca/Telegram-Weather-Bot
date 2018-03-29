@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
 def start(bot, update):
-    """Send a message when the command /start is issued."""
+    """Başlamak için gönderilen '/start' mesajından sonra dönecek cevap"""
     update.message.reply_text("Merhabalar, WeatherBot'a hoşgeldiniz, hava durumunu öğrenmek için /havadurumu komutunu kullanınız.")
 
 def havadurumu(bot, update):
