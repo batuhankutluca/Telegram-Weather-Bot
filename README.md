@@ -1,2 +1,2 @@
 # Telegram Weather Bot
-Bu proje Ali Tolgahan Dikici ve Fatih Zor ile beraber geliştirilmiştir.
+Bu proje Ali Tolgahan Dikici (https://github.com/AliTolgahan) ve Fatih Zor (https://github.com/fatihzor) ile beraber geliştirilmiştir.
